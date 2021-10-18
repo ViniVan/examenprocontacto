@@ -3,11 +3,11 @@ EJERCICIO 2
 1.	¿Qué es un servidor HTTP? 
 Es la aplicación que procesa las peticiones web de un cliente.
 
-2.	¿Qué son los verbos HTTP? Mencionar los más conocidos
-i.	GET – Obtener data del servidor
-ii.	POST – Mandar datos al servidor
-iii.	PUT – Actualizar data ya existente en el servidor
-iv.	DELETE – Eliminar data del servidor
+2.	¿Qué son los verbos HTTP? Mencionar los más conocidos  
+i.	GET – Obtener data del servidor  
+ii.	POST – Mandar datos al servidor  
+iii.	PUT – Actualizar data ya existente en el servidor  
+iv.	DELETE – Eliminar data del servidor  
 
 3.	¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
 Un request es una petición por un recurso hecha por el cliente al servidor HTTP. La response es una respuesta con intención de proveer al cliente con el recurso pedido. Los headers transmiten información acerca del navegador cliente, el sistema del servidor, el recurso solicitado, etc.
