@@ -1,0 +1,7 @@
+trigger ContactProContactoTrigger on Contact (after insert, after update) {
+    for (Contact contact : Trigger.New){ 
+        String conId = (String) contact.Id;
+        CallOutTPro.callout(conId);
+      }
+               
+}
